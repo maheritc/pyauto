@@ -1,2 +1,2 @@
 # pyauto
-python automation scripts
+python automation scripts for learning python and aws
